@@ -9,7 +9,7 @@ body {
     border: solid, 3px, #111111;
     border-radius: 10px;
     width: 50%;
-    height: 125px;
+    height: 135px;
     margin: auto;
     margin-top: 15%;
     text-align: center;
@@ -20,7 +20,6 @@ body {
 #question {
     background: none;
     text-align: center;
-    font-size: 22px;
 }
             
 #eight, #answer {
